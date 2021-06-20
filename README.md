@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-I am a Sophomore at IIT Roorkee , pursuing my majors in Electrical Engineering and also , a <b> frontend web developer </b>. Being a technological enthusiast, I'm always ready to explore new things in technological field .<br>
+I am a Sophomore at IIT Roorkee , pursuing my majors in Electrical Engineering and also,a <b> frontend web developer </b>.Being a technological enthusiast, I'm always ready to explore new things in technological field .<br>
 
 
 ### Contact Me :
