@@ -18,5 +18,5 @@ I am a Sophomore at IIT Roorkee , pursuing my majors in Electrical Engineering a
 
 
 ### Contact Me :
-<ul><li> Gmail : nikitasingh2001@yahoo.com </li>
+<ul><li> Gmail : nikitasinghiitr291@gmail.com </li>
 <ul>
