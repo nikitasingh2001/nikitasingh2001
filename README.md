@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-I am a Sophomore at IIT Roorkee, pursuing my majors in Electrical Engineering and also,a <b> frontend web developer </b>.Being a technological enthusiast, I'm always ready to explore new things in technological field .<br>
-
+I am a pre-final year student at Indian Institute of Technology, Roorkee in the Electrical Engineering Department. I was a mentee under Microsoft Engage Mentorship Program'21 where we worked on this year project under Microsoft Experts.<br>
+My current obsession is learning about new technologies! Reading and Painting are my other pastimes. I also love connecting with new people.
 
 ### Contact Me :
 <ul><li> Gmail : nikitasinghiitr291@gmail.com </li>
