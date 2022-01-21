@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-I am a pre-final year student at Indian Institute of Technology, Roorkee in the Electrical Engineering Department. I was a mentee under Microsoft Engage Mentorship Program'21 where we worked on this year project under Microsoft Experts.<br>
+I am a pre-final year student at Indian Institute of Technology, Roorkee in the Electrical Engineering Department<br>
 My current obsession is learning about new technologies! Reading and Painting are my other pastimes. I also love connecting with new people.
 
 ### Contact Me :
